@@ -9,6 +9,8 @@
         <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode"/></a> 
     <a href="https://git-scm.com/" target="_blank" title="Git"> 
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+    <a href="https://obsidian.md/" target="_blank" title="Obsidian">
+        <img src="https://img.icons8.com/color/48/000000/obsidian.png" alt="Obsidian icon"/></a>
 </p>
 
 ---
