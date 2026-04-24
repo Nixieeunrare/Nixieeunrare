@@ -4,25 +4,24 @@
   <img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian&theme=dark" />
 </p>
 
+## 📊 Coding Activity
+
+<!-- DEVPULSE:START -->
+<!-- DEVPULSE:END -->
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nixiee0&theme=github_dark"
-    width="760"
+    width="1080"
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=nixiee0&show_icons=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
-    height="180"
+    width="1080"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nixiee0&hide_border=false&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
-    height="180"
-  />
-</p>
-
+  
 ---
