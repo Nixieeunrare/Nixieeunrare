@@ -15,7 +15,7 @@
   </style>
   <rect x="0.5" y="0.5" width="1079" height="367" rx="18" class="card" />
   <text x="40" y="44" class="title">Coding Activity</text>
-  <text x="40" y="72" class="subtitle">Total tracked: 2m 16s</text>
+  <text x="40" y="72" class="subtitle">Total tracked: 2m 22s</text>
   <g transform="translate(0 104)">
     <g transform="translate(40 10)">
       <rect width="24" height="24" rx="6" fill="#cbcb41" class="icon-bg" />
@@ -23,20 +23,19 @@
     </g>
     <text x="78" y="28" class="label">JSON</text>
     <rect x="332" y="16" width="400" height="14" rx="7" class="track" />
-    <rect x="332" y="16" width="180" height="14" rx="7" class="fill" />
+    <rect x="332" y="16" width="172" height="14" rx="7" class="fill" />
     <text x="850" y="28" class="duration">1m 1s</text>
-    <text x="990" y="28" class="share">44.9%</text>
+    <text x="990" y="28" class="share">43%</text>
   </g>
   <g transform="translate(0 152)">
-    <g transform="translate(40 10)">
-      <rect width="24" height="24" rx="6" fill="#6e7681" class="icon-bg" />
-      <text x="12" y="12" class="icon-text">MD</text>
-    </g>
+    <g transform="translate(40 10)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 256 256"><g transform="translate(0, 0)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><path stroke="#fff" stroke-width="10" d="M217 69H39C33.4772 69 29 73.4772 29 79V177C29 182.523 33.4772 187 39 187H217C222.523 187 227 182.523 227 177V79C227 73.4772 222.523 69 217 69Z"/><path fill="#fff" d="M54 162V94H74L94 119L114 94H134V162H114V123L94 148L74 123V162H54ZM179 162L149 129H169V94H189V129H209L179 162Z"/></svg>
+        </g></svg></g>
     <text x="78" y="28" class="label">Markdown</text>
     <rect x="332" y="16" width="400" height="14" rx="7" class="track" />
-    <rect x="332" y="16" width="112" height="14" rx="7" class="fill" />
+    <rect x="332" y="16" width="107" height="14" rx="7" class="fill" />
     <text x="850" y="28" class="duration">38s</text>
-    <text x="990" y="28" class="share">27.9%</text>
+    <text x="990" y="28" class="share">26.8%</text>
   </g>
   <g transform="translate(0 200)">
     <g transform="translate(40 10)"><svg x="0" y="0" width="24" height="24" viewBox="0 0 256 256"><g transform="translate(0, 0)">
@@ -44,9 +43,9 @@
         </g></svg></g>
     <text x="78" y="28" class="label">Python</text>
     <rect x="332" y="16" width="400" height="14" rx="7" class="track" />
-    <rect x="332" y="16" width="85" height="14" rx="7" class="fill" />
-    <text x="850" y="28" class="duration">29s</text>
-    <text x="990" y="28" class="share">21.3%</text>
+    <rect x="332" y="16" width="98" height="14" rx="7" class="fill" />
+    <text x="850" y="28" class="duration">35s</text>
+    <text x="990" y="28" class="share">24.6%</text>
   </g>
   <g transform="translate(0 248)">
     <g transform="translate(40 10)">
@@ -55,9 +54,9 @@
     </g>
     <text x="78" y="28" class="label">TypeScript</text>
     <rect x="332" y="16" width="400" height="14" rx="7" class="track" />
-    <rect x="332" y="16" width="24" height="14" rx="7" class="fill" />
+    <rect x="332" y="16" width="22" height="14" rx="7" class="fill" />
     <text x="850" y="28" class="duration">8s</text>
-    <text x="990" y="28" class="share">5.9%</text>
+    <text x="990" y="28" class="share">5.6%</text>
   </g>
-  <text x="40" y="340" class="meta">Last update: 4/25/2026, 5:41:46 AM</text>
+  <text x="40" y="340" class="meta">Last update: 4/25/2026, 6:16:44 AM</text>
 </svg>
